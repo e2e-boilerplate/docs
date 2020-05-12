@@ -1,0 +1,37 @@
+| No | Repository                              | Status          |
+| :- | :-------------------------------------- | :-------------- |
+| 1  | testcafe                                | Not Implemented |
+| 2  | testcafe-commonjs-chai                  | Not Implemented |
+| 3  | testcafe-commonjs-expect                | Not Implemented |
+| 4  | testcafe-es-modules-babel               | Not Implemented |
+| 5  | testcafe-es-modules-babel-assert        | Not Implemented |
+| 6  | testcafe-es-modules-babel-chai          | Not Implemented |
+| 7  | testcafe-es-modules-babel-chai-assert   | Not Implemented |
+| 8  | testcafe-es-modules-babel-chai-expect   | Not Implemented |
+| 9  | testcafe-es-modules-babel-chai-should   | Not Implemented |
+| 10 | testcafe-es-modules-babel-expect        | Not Implemented |
+| 11 | testcafe-es-modules-chai                | Not Implemented |
+| 12 | testcafe-es-modules-esm                 | Not Implemented |
+| 13 | testcafe-es-modules-esm-assert          | Not Implemented |
+| 14 | testcafe-es-modules-esm-chai            | Not Implemented |
+| 15 | testcafe-es-modules-esm-chai-assert     | Not Implemented |
+| 16 | testcafe-es-modules-esm-chai-expect     | Not Implemented |
+| 17 | testcafe-es-modules-esm-chai-should     | Not Implemented |
+| 18 | testcafe-es-modules-esm-expect          | Not Implemented |
+| 19 | testcafe-es-modules-expect              | Not Implemented |
+| 20 | testcafe-typescript-chai                | Not Implemented |
+| 21 | testcafe-typescript-expect              | Not Implemented |
+| 22 | testcafe-typescript-ts-node             | Not Implemented |
+| 23 | testcafe-typescript-ts-node-assert      | Not Implemented |
+| 24 | testcafe-typescript-ts-node-chai        | Not Implemented |
+| 25 | testcafe-typescript-ts-node-chai-assert | Not Implemented |
+| 26 | testcafe-typescript-ts-node-chai-expect | Not Implemented |
+| 27 | testcafe-typescript-ts-node-chai-should | Not Implemented |
+| 28 | testcafe-typescript-ts-node-expect      | Not Implemented |
+| 29 | testcafe-typescript-tsc                 | Not Implemented |
+| 30 | testcafe-typescript-tsc-assert          | Not Implemented |
+| 31 | testcafe-typescript-tsc-chai            | Not Implemented |
+| 32 | testcafe-typescript-tsc-chai-assert     | Not Implemented |
+| 33 | testcafe-typescript-tsc-chai-expect     | Not Implemented |
+| 34 | testcafe-typescript-tsc-chai-should     | Not Implemented |
+| 35 | testcafe-typescript-tsc-expect          | Not Implemented |

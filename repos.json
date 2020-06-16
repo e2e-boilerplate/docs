@@ -106,7 +106,6 @@
   "puppeteer-typescript-ts-jest-jest-expect",
   "puppeteer-typescript-ts-node-jasmine-assert",
   "puppeteer-typescript-ts-node-jasmine-expect",
-  "selenium-webdriver-common-cucumber-chai-assert",
   "selenium-webdriver-commonjs-cucumber-assert",
   "selenium-webdriver-commonjs-cucumber-chai-assert",
   "selenium-webdriver-commonjs-cucumber-chai-expect",
